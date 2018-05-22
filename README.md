@@ -1,3 +1,3 @@
 # test-point
 
-## Chaning the readme
+## Changing the readme
